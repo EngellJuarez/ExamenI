@@ -1,0 +1,9 @@
+E:\Programación II\OpenWeatherApp\Infraestructure\bin\Debug\Infraestructure.dll
+E:\Programación II\OpenWeatherApp\Infraestructure\bin\Debug\Infraestructure.pdb
+E:\Programación II\OpenWeatherApp\Infraestructure\bin\Debug\Newtonsoft.Json.dll
+E:\Programación II\OpenWeatherApp\Infraestructure\bin\Debug\Newtonsoft.Json.xml
+E:\Programación II\OpenWeatherApp\Infraestructure\obj\Debug\WeatherApp.Infraestructure.csproj.AssemblyReference.cache
+E:\Programación II\OpenWeatherApp\Infraestructure\obj\Debug\WeatherApp.Infraestructure.csproj.CoreCompileInputs.cache
+E:\Programación II\OpenWeatherApp\Infraestructure\obj\Debug\WeatherApp.Infraestructure.csproj.CopyComplete
+E:\Programación II\OpenWeatherApp\Infraestructure\obj\Debug\Infraestructure.dll
+E:\Programación II\OpenWeatherApp\Infraestructure\obj\Debug\Infraestructure.pdb
